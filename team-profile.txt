@@ -1,0 +1,5 @@
+Team Profile
+
+Student Name: Charls
+Role: Web Developer
+Project: GitHub Merge Conflict Activity
