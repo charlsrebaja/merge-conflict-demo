@@ -1,5 +1,5 @@
 Team Profile
 
 Student Name: Charls
-Role: Web Developer
+Role: Frontend Developer
 Project: GitHub Merge Conflict Activity
